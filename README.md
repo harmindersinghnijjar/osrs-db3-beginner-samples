@@ -7,12 +7,12 @@ v0.1 by Harminder Singh Nijjar
 
 Description: Walk to and open the nearest bank.
 
-### Depositing Items
+### - Depositing Items
 v0.1 by Harminder Singh Nijjar
 
 Description: Open the nearest bank and deposit items.
 
-### Withdrawing Items 
+### - Withdrawing Items 
 v0.1 by Harminder Singh Nijjar
 
 Description: Open the nearest bank and withdraw items.
