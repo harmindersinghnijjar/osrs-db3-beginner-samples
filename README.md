@@ -2,28 +2,28 @@
 A repository containing all beginner Java programs written for the popular MMORPG RuneScape using the DreamBot API.
 
 ## Handling Banking
-### Open Closest Bank
+### 1. Open Closest Bank
 v0.1 by Harminder Singh Nijjar
 
 Description: Walk to and open the nearest bank.
 
-### - Depositing Items
+### 2. Depositing Items
 v0.1 by Harminder Singh Nijjar
 
 Description: Open the nearest bank and deposit items.
 
-### - Withdrawing Items 
+### 3. Withdrawing Items 
 v0.1 by Harminder Singh Nijjar
 
 Description: Open the nearest bank and withdraw items.
 
 ## Hop Worlds
-### Specific World Hopper
+### 1. Specific World Hopper
 v0.1 by Harminder Singh Nijjar
 
 Description: Hop to a specific world. 
 
-### Random World Hopper
+### 2. Random World Hopper
 v0.1 by Harminder Singh Nijjar
 
 Description: Hop to a random world. 
