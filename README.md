@@ -23,3 +23,8 @@ v0.1 by Harminder Singh Nijjar
 
 Description: Hop to a specific world. 
 
+### Random World Hopper
+v0.1 by Harminder Singh Nijjar
+
+Description: Hop to a random world. 
+
