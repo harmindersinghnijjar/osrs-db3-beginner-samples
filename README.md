@@ -28,3 +28,18 @@ v0.1 by Harminder Singh Nijjar
 
 Description: Hop to a random world. 
 
+## Pick Up Ground Items
+
+## Drop Inventory Items
+### 1. Dropping one item
+v0.1 by Harminder Singh Nijjar
+
+Description: Drop coins, drop first item in inventory except an axe.
+
+### 2. Dropping all items
+v0.1 by Harminder Singh Nijjar
+
+Description: Drop coins, drop all items in inventory except axe.
+
+## Buy and Sell on the G.E.
+
