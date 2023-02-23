@@ -12,7 +12,7 @@ import org.dreambot.api.wrappers.items.GroundItem;
 @ScriptManifest(name = "Name-Based Item Pickup", description = "Pick up coins by name.", author = "Harminder Singh Nijjar",  version = 0.1,
         category = Category.MISC, image = "")
 
-public class PickUpItemsByName extends AbstractScript {
+public class PickUpItemByName extends AbstractScript {
 
     @Override
     public int onLoop() {
