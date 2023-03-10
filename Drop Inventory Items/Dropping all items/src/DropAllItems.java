@@ -14,7 +14,7 @@ public class DropAllItems extends AbstractScript {
         Inventory.dropAll("Coins"); // Name
         Inventory.dropAll(995); // ID
 
-        //Filter that will drop all items that aren't an axe
+        // Filter that will drop all items that aren't an axe
         Inventory.dropAll(item -> !item.getName().contains("axe"));
         return 0;
     }
